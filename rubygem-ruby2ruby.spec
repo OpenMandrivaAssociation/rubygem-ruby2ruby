@@ -3,7 +3,7 @@
 Summary:    Allows generating pure ruby code easily from RubyParser compatible Sexps
 Name:       rubygem-%{oname}
 Version:    1.2.5
-Release:    %mkrel 1
+Release:    2
 Group:      Development/Ruby
 License:    MIT
 URL:        http://seattlerb.rubyforge.org/

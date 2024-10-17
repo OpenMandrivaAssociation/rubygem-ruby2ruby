@@ -6,7 +6,7 @@ Version:    1.2.5
 Release:    2
 Group:      Development/Ruby
 License:    MIT
-URL:        http://seattlerb.rubyforge.org/
+URL:        https://seattlerb.rubyforge.org/
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}
 Requires:   rubygems
